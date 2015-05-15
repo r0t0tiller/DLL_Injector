@@ -2,7 +2,7 @@
 
 //DLL Injector C++
 
-//Enumerates Processes and Inject a DLL Into User Defined Process
+//Enumerates Processes and Injects a DLL Into User Defined Process
 
 //Test.dll is Provided
 
